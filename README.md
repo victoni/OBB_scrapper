@@ -1,4 +1,4 @@
-# OBB_scrape
+# OBB_scraper
 
 A program scope scrapper for openbugbounty.org. Can be added to a pipeline for continuous scanning and recon.
 
