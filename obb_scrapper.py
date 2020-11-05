@@ -16,7 +16,7 @@ def extract(prog):
 		try:
 			if "None" not in link.string:
 				for res in list(filter(lambda a: a != '\xa0', link.string.splitlines())):
-					print(res)
+					print(res, flush=True)
 		except TypeError:
 			pass
 
