@@ -4,6 +4,7 @@ from sys import argv
 from multiprocessing.dummy import Pool as ThreadPool
 
 '''
+openbugbounty.org programs' scope scraper
 Use: python3 obb_scraper.py [threads]
 Default threads: 10
 '''
