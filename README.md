@@ -1,3 +1,5 @@
+> The script is not working anymore, due to some structural changes in openbugbounty.org
+
 # OBB_scrapper
 
 A program scope scrapper for openbugbounty.org. Can be added to a pipeline for continuous scanning and recon.
